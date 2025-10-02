@@ -1,0 +1,395 @@
+[
+    {
+        "DevName": "HYDRORANGER #0009",
+        "DeviceEUI": "F863663062792909",
+        "SiteName": "Falkland Burn and Arraty Burn conf at B936 Road Bridge",
+        "EmptyDistance": "2780",
+        "Lon": "-3.207358",
+        "Lat": "56.260429",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0016",
+        "DeviceEUI": "F863663062798591",
+        "SiteName": "River Eden at Strathmiglo STW",
+        "EmptyDistance": "2710",
+        "Lon": "-3.252223",
+        "Lat": "56.277705",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0007",
+        "DeviceEUI": "F863663062793717",
+        "SiteName": "Auchtermuchty Burn d/s confluence at Glassarts Cottage",
+        "EmptyDistance": "2049",
+        "Lon": "-3.241392",
+        "Lat": "56.304858",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0005",
+        "DeviceEUI": "F863663062793469",
+        "SiteName": "River Eden at Dunshalt road bridge",
+        "EmptyDistance": "4463",
+        "Lon": "-3.2133164",
+        "Lat": "56.277972",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0001",
+        "DeviceEUI": "F863663062793626",
+        "SiteName": "Barroway Burn at Demperston Farm",
+        "EmptyDistance": "2236",
+        "Lon": "-3.256403",
+        "Lat": "56.284666",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0012",
+        "DeviceEUI": "F863663062792073",
+        "SiteName": "Auchtermuchty Burn at Myres Castle gate",
+        "EmptyDistance": "3260",
+        "Lon": "-3.223652",
+        "Lat": "56.284953",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0018",
+        "DeviceEUI": "F863663062792156",
+        "SiteName": "Fernie Burn at Lindifferon",
+        "EmptyDistance": "2845",
+        "Lon": "-3.109960",
+        "Lat": "56.335057",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0013",
+        "DeviceEUI": "F863663062797205",
+        "SiteName": "Rossie Drain at Easter Kilwhiss",
+        "EmptyDistance": "3651",
+        "Lon": "-3.168458",
+        "Lat": "56.279775",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0014",
+        "DeviceEUI": "F863663062792115",
+        "SiteName": "River Eden by West Mill u/s Strathmiglo",
+        "EmptyDistance": "2448",
+        "Lon": "-3.276224",
+        "Lat": "56.275662",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0002",
+        "DeviceEUI": "F863663062793691",
+        "SiteName": "Glenfield Roadbridge",
+        "EmptyDistance": "4299",
+        "Lon": "-4.497629",
+        "Lat": "55.607979",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0021",
+        "DeviceEUI": "F863663062797262",
+        "SiteName": "River Eden at ABN Damside Mill bridge",
+        "EmptyDistance": "4646",
+        "Lon": "-3.028580",
+        "Lat": "56.303760",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0024",
+        "DeviceEUI": "F863663062792214",
+        "SiteName": "Ceres Burn at B939 road bridge, Pitscottie",
+        "EmptyDistance": "4175",
+        "Lon": "-2.946254",
+        "Lat": "56.305645",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0019",
+        "DeviceEUI": "F863663062798732",
+        "SiteName": "River Eden at Springfield road bridge",
+        "EmptyDistance": "8367",
+        "Lon": "-3.050888",
+        "Lat": "56.294515",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0017",
+        "DeviceEUI": "F863663062779674",
+        "SiteName": "Ceres Burn d/s of Teasses Mill",
+        "EmptyDistance": "4176",
+        "Lon": "-2.972612",
+        "Lat": "56.287701",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0008",
+        "DeviceEUI": "F863663062787669",
+        "SiteName": "Ballingall Burn at Woodmill Cottage",
+        "EmptyDistance": "2885",
+        "Lon": "-3.211894",
+        "Lat": "56.273222",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0015",
+        "DeviceEUI": "F863663062794509",
+        "SiteName": "River Eden at Cuthill Towers",
+        "EmptyDistance": "2915",
+        "Lon": "-3.3618808",
+        "Lat": "56.258759",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0011",
+        "DeviceEUI": "F863663062793204",
+        "SiteName": "River Eden at Shiells road bridge",
+        "EmptyDistance": "4034",
+        "Lon": "-3.157846",
+        "Lat": "56.264156",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0022",
+        "DeviceEUI": "F863663062798872",
+        "SiteName": "Lady Burn at Kilmaron school",
+        "EmptyDistance": "3035",
+        "Lon": "-3.028327",
+        "Lat": "56.322513",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0020",
+        "DeviceEUI": "F863663062792198",
+        "SiteName": "Rankeilour Burn at rail bridge",
+        "EmptyDistance": "4068",
+        "Lon": "-3.079126",
+        "Lat": "56.286225",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0010",
+        "DeviceEUI": "F863663062793501",
+        "SiteName": "Falkland Burn 100m u/s River Eden confluence",
+        "EmptyDistance": "3605",
+        "Lon": "-3.208467",
+        "Lat": "56.276841",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "HYDRORANGER #0004",
+        "DeviceEUI": "F863663062793816",
+        "SiteName": "River Eden at Station road bridge, Gateside",
+        "EmptyDistance": "3109",
+        "Lon": "-3.320400",
+        "Lat": "56.265729",
+        "type": "HydroRanger"
+    },
+    {
+        "DevName": "THETA #0005",
+        "DeviceEUI": "F861275077947444",
+        "SiteName": "Lady Burn at Kilmaron school",
+        "Lon": "-3.028327",
+        "Lat": "56.322513",
+        "type": "Theta"
+    },
+    {
+        "DevName": "THETA #0004",
+        "DeviceEUI": "F861275077961817",
+        "SiteName": "Rankeilour Burn at rail bridge",
+        "Lon": "-3.079126",
+        "Lat": "56.286225",
+        "type": "Theta"
+    },
+    {
+        "DevName": "THETA #0003",
+        "DeviceEUI": "F861275077962088",
+        "SiteName": "Falkland Burn and Arraty Burn conf at B936 Road Bridge",
+        "Lon": "-3.207358",
+        "Lat": "56.260429",
+        "type": "Theta"
+    },
+    {
+        "DevName": "THETA #0002",
+        "DeviceEUI": "F863663069882554",
+        "SiteName": "Auchtermuchty Burn d/s confluence at Glassarts Cottage",
+        "Lon": "-3.241392",
+        "Lat": "56.304858",
+        "type": "Theta"
+    },
+    {
+        "DevName": "THETA #0001",
+        "DeviceEUI": "F863663069837491",
+        "SiteName": "Barroway Burn at Demperston Farm",
+        "Lon": "-3.256403",
+        "Lat": "56.284666",
+        "type": "Theta"
+    },
+    {
+        "DevName": "ECHO #1",
+        "DeviceEUI": "70B3D54990566062",
+        "SiteName": "Greenford Burn @ Greenford Farm",
+        "EmptyDistance": "2390",
+        "Lon": "-2.7085165243598386",
+        "Lat": "56.553277272221514",
+        "type": "Echo"
+    },
+    {
+        "DevName": "ECHO #5",
+        "DeviceEUI": "70B3D54999389C9B",
+        "SiteName": "Road Bridge 600m West of Carmyllie",
+        "EmptyDistance": "1773",
+        "Lon": "-2.741944",
+        "Lat": "56.569722",
+        "type": "Echo"
+    },
+    {
+        "DevName": "ECHO #2",
+        "DeviceEUI": "70B3D54991EB3BA5",
+        "SiteName": "Crossden burn @ Greenford Farm",
+        "EmptyDistance": "2522",
+        "Lon": "-2.7087453156770502",
+        "Lat": "56.55409349771759",
+        "type": "Echo"
+    },
+    {
+        "DevName": "ECHO #4",
+        "DeviceEUI": "70B3D5499B3A9F32",
+        "SiteName": "Black Burn @ Milton of Conon",
+        "EmptyDistance": "1390",
+        "Lon": "-2.7031439317435857",
+        "Lat": "56.58248250313473",
+        "type": "Echo"
+    },
+    {
+        "DevName": "Droplet #8",
+        "DeviceEUI": "70B3D5499E6F40FA",
+        "SiteName": "Greenford Burn @ Greenford Farm",
+        "Lon": "-2.708528970397459",
+        "Lat": "56.55332005184382",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Droplet #3",
+        "DeviceEUI": "70B3D549970021CD",
+        "SiteName": "Elliot Water @ Greystone",
+        "Lon": "-2.771389",
+        "Lat": "56.581111",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Droplet #7",
+        "DeviceEUI": "70B3D54995431295",
+        "SiteName": "Black Burn @ Milton of Conon",
+        "Lon": "-2.7031439317435857",
+        "Lat": "56.58248250313473",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Droplet #6",
+        "DeviceEUI": "70B3D5499C9F22F1",
+        "SiteName": "Rottenraw Burn u/s Elliot Water confluence",
+        "Lon": "-2.6604111487841786",
+        "Lat": "56.55722722014659",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Droplet #4",
+        "DeviceEUI": "70B3D54995472B60",
+        "SiteName": "Hillhead Farm",
+        "Lon": "-2.76186663325646",
+        "Lat": "56.57146089052744",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Droplet #2",
+        "DeviceEUI": "70B3D5499AFA2DEE",
+        "SiteName": "Hume Farm North @ Carmyllie quarry",
+        "Lon": "-2.7347113882452367",
+        "Lat": "56.585027078168004",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Droplet #5",
+        "DeviceEUI": "70B3D54995A6F26E",
+        "SiteName": "Redford North",
+        "Lon": "-2.7099639627918704",
+        "Lat": "56.59285246663787",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Droplet #1",
+        "DeviceEUI": "70B3D54994B0C83F",
+        "SiteName": "Hume Farm @ Mains of Carmyllie",
+        "Lon": "-2.7412931117516015",
+        "Lat": "56.57472635190273",
+        "type": "Droplet"
+    },
+    {
+        "DevName": "Hygro#55:8D",
+        "DeviceEUI": "70B3D57ED004558D",
+        "SiteName": "Crofts South West Field",
+        "Lon": "-2.7063292005198787",
+        "Lat": "56.57950324451966",
+        "type": "Hygro"
+    },
+    {
+        "DevName": "Hygro#00:EB",
+        "DeviceEUI": "70B3D51C200000EB",
+        "SiteName": "Wardneuk by Greystone",
+        "Lon": "-2.766272",
+        "Lat": "56.581354",
+        "type": "Hygro"
+    },
+    {
+        "DevName": "Hygro#00:92",
+        "DeviceEUI": "70B3D51C20000092",
+        "SiteName": "Black Burn @ Milton of Conon",
+        "Lon": "-2.7031439317435857",
+        "Lat": "56.58248250313473",
+        "type": "Hygro"
+    },
+    {
+        "DevName": "Hygro#00:89",
+        "DeviceEUI": "70B3D51C20000089",
+        "SiteName": "Elliot Water @ Greystone",
+        "Lon": "-2.771389",
+        "Lat": "56.581111",
+        "type": "Hygro"
+    },
+    {
+        "DevName": "Hygro#00:94",
+        "DeviceEUI": "70B3D51C20000094",
+        "SiteName": "Greenford Burn @ Greenford Farm",
+        "Lon": "-2.7083295059945645",
+        "Lat": "56.55340120969614",
+        "type": "Hygro"
+    },
+    {
+        "DevName": "Hygro#00:8E",
+        "DeviceEUI": "70B3D51C2000008E",
+        "SiteName": "Field west of Newton of Arbirlot farm",
+        "Lon": "-2.652847",
+        "Lat": "56.564364",
+        "type": "Hygro"
+    },
+    {
+        "DevName": "Hygro#55:41",
+        "DeviceEUI": "70B3D57ED0045541",
+        "SiteName": "Mains of Carmyllie (LPID NO/54289/43391)",
+        "Lon": "-2.747666",
+        "Lat": "56.580815",
+        "type": "Hygro"
+    },
+    {
+        "DevName": "Hygro#00:90",
+        "DeviceEUI": "70B3D51C20000090",
+        "SiteName": "Hume Farm North @ Carmyllie quarry",
+        "Lon": "-2.7347113882452367",
+        "Lat": "56.585027078168004",
+        "type": "Hygro"
+    }
+]
