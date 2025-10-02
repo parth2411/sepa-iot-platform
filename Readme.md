@@ -46,7 +46,7 @@
                   │  - /data-bounds  │
                   └────────┬─────────┘
                            │
-                           │ 4. Visualize
+                           │ 4. Visualise
                            │    (Dashboard.html)
                            │
                   ┌────────▼─────────┐
@@ -149,7 +149,7 @@ open Dashboard.html  # Opens in browser
 - Data source selection (SEPA API or Local Server)
 - Device selection
 - Date range filtering
-- Real-time visualization
+- Real-time visualisation
 - Analytics and forecasting
 
 ---
@@ -163,7 +163,7 @@ The dashboard also supports fetching data directly from SEPA API:
 │   SEPA API      │
 └────────┬────────┘
          │
-         │ Direct fetch (no CSV, no DB)
+         │ Direct fetch using Live sepa api
          │
 ┌────────▼────────┐
 │  Dashboard.html │
@@ -171,7 +171,7 @@ The dashboard also supports fetching data directly from SEPA API:
 │  - Select "SEPA │
 │    API" source  │
 │  - Fetch live   │
-│  - Visualize    │
+│  - Visualise    │
 └─────────────────┘
 ```
 
@@ -192,9 +192,9 @@ The dashboard also supports fetching data directly from SEPA API:
 | Step | Tool | Input | Output | Purpose |
 |------|------|-------|--------|---------|
 | 1 | `data_fetcher.py` | SEPA API | CSV files | Collect historical data |
-| 2 | `database_builder.py` | CSV files | SQLite DB | Organize and index data |
+| 2 | `database_builder.py` | CSV files | SQLite DB | Organise and index data |
 | 3 | `app.py` | SQLite DB | REST API | Serve data efficiently |
-| 4 | `Dashboard.html` | REST API | Visualizations | Analyze and explore |
+| 4 | `Dashboard.html` | REST API | Visualisations | Analyse and explore |
 
 ---
 
@@ -204,7 +204,7 @@ The dashboard also supports fetching data directly from SEPA API:
 1. **Data Persistence**: CSV and DB store data locally (no repeated API calls)
 2. **Performance**: Database queries are fast for large datasets
 3. **Offline Analysis**: Can work without internet after initial fetch
-4. **Flexibility**: Can re-analyze data without re-fetching
+4. **Flexibility**: Can re-analyse data without re-fetching
 5. **Scalability**: Database handles millions of records efficiently
 
 ### When You Need Each Step:
@@ -215,15 +215,15 @@ The dashboard also supports fetching data directly from SEPA API:
 - Need real-time data only
 
 **Use Full Pipeline if:**
-- ✅ Analyzing multiple devices
+- ✅ Analysing multiple devices
 - ✅ Working with large historical datasets
 - ✅ Need repeated analysis
 - ✅ Building reports or dashboards
-- ✅ Sharing data with team
+- ✅ Sharing data with the team
 
 ---
 
-## Optimization Options
+## Optimisation Options
 
 ### Option 1: Direct API → DB (Skip CSV)
 Modify `data_fetcher.py` to write directly to database:
