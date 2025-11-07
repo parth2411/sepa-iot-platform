@@ -185,7 +185,6 @@ The dashboard also supports fetching data directly from SEPA API:
 - ❌ Repeated analysis (redundant API calls)
 - ❌ Cross-device comparisons
 
----
 
 ## Current Flow Summary
 
@@ -196,7 +195,6 @@ The dashboard also supports fetching data directly from SEPA API:
 | 3 | `app.py` | SQLite DB | REST API | Serve data efficiently |
 | 4 | `Dashboard.html` | REST API | Visualisations | Analyse and explore |
 
----
 
 ## Why This Architecture?
 
