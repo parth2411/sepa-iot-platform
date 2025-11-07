@@ -86,7 +86,6 @@ timestamp,device_eui,device_name,device_type,site_name,latitude,longitude,water_
 2025-01-01T00:00:00Z,F863663062792909,HYDRORANGER #0009,HydroRanger,Falkland Burn,56.260429,-3.207358,1234.5,12.3,...
 ```
 
----
 
 ### Step 2: Database Building (database_builder.py)
 ```bash
@@ -109,7 +108,6 @@ iot_devices.db (SQLite Database)
 └── theta table        (Theta devices)
 ```
 
----
 
 ### Step 3: API Server (app.py)
 ```bash
@@ -131,7 +129,6 @@ GET  /data-bounds/{device_type}/{eui}   # Date range
 GET  /data/{device_type}/{eui}          # Get data
 ```
 
----
 
 ### Step 4: Web Dashboard (Dashboard.html)
 ```bash
@@ -152,7 +149,6 @@ open Dashboard.html  # Opens in browser
 - Real-time visualisation
 - Analytics and forecasting
 
----
 
 ## Alternative Flow: Direct from SEPA API
 
