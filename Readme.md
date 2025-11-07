@@ -221,7 +221,6 @@ The dashboard also supports fetching data directly from SEPA API:
 - ✅ Building reports or dashboards
 - ✅ Sharing data with the team
 
----
 
 ## Optimisation Options
 
