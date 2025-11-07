@@ -243,7 +243,6 @@ for batch in fetch_batches():
 - Use SEPA API for latest real-time data
 - Dashboard combines both sources
 
----
 
 ## Complete Workflow Example
 
